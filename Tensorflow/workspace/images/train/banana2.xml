@@ -1,0 +1,26 @@
+<annotation>
+	<folder>banana</folder>
+	<filename>banana2.jpg</filename>
+	<path>H:\Jupyter Projects\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\banana\banana2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>12000</width>
+		<height>6750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>441</ymin>
+			<xmax>10867</xmax>
+			<ymax>5749</ymax>
+		</bndbox>
+	</object>
+</annotation>

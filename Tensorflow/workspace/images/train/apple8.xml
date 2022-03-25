@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>apple8.jpg</filename>
+	<path>H:\Jupyter Projects\TFOD\TFODCourse\Tensorflow\workspace\images\train\apple8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>47</ymin>
+			<xmax>451</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

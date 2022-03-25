@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mango</folder>
+	<filename>mango8.jpg</filename>
+	<path>H:\Jupyter Projects\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\mango\mango8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>182</ymin>
+			<xmax>3019</xmax>
+			<ymax>2163</ymax>
+		</bndbox>
+	</object>
+</annotation>
